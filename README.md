@@ -9,7 +9,7 @@ Moderation:
 
 Teilnehmer:
 
-- `Hier dein Name` (freiwillig)
+- Florian Schuttkowski: [@flowinho](https://twitter.com/flowinho), [GitHub](https://github.com/flowinho), <https://flowinho.com>
 
 ## Code einreichen
 
